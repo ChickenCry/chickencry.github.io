@@ -2,9 +2,9 @@
   "apiUrl": "https://script.google.com/macros/s/AKfycbw-GltlSR65ha9bR2-zt4ZrwNzkh_F1B68goLp5xfMiEy-rtYTktD8NbhHWWoNDaqVU/exec",
   "googleClientIds": {
     "desktop": "548418556504-4r54a4fek0004tdto3i2a2o0h7chmt1e.apps.googleusercontent.com",
-    "web": "",
+    "web": "548418556504-4r54a4fek0004tdto3i2a2o0h7chmt1e.apps.googleusercontent.com",
     "android": ""
   },
-  "googleDesktopClientSecretBase64":"R09DU1BYLWVkWEwyRDVSeW9ScXZiZE0tN2ZpbDhXWDZTeTA=",
+  "googleDesktopClientSecretBase64": "R09DU1BYLWVkWEwyRDVSeW9ScXZiZE0tN2ZpbDhXWDZTeTA=",
   "message": ""
 }
