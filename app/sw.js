@@ -8,11 +8,11 @@
 //   ignoreVary: module scripts are requested with an Origin header, the precache without.
 // - Other sites (config.json, Apps Script, Google sign-in): never touched.
 
-const VERSION = '1.0.0-mwhe3dhy'
+const VERSION = '1.0.1-mwhh8auo'
 const CACHE = `srs-vocab-pro-${VERSION}`
 const PRECACHE = [
   "./",
-  "./assets/index-C853w_-j.js",
+  "./assets/index-DhCkQ0R2.js",
   "./assets/xlsx-DR4W_luh.js",
   "./assets/index-DmVosIv8.css",
   "./manifest.webmanifest",
